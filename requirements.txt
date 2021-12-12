@@ -1,0 +1,6 @@
+cs50
+Flask
+Flask-Session
+requests
+token-id = pk_1cd73049272e4533af7add6bce6767f9
+export API_KEY=pk_1cd73049272e4533af7add6bce6767f9
